@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "987949923749",
+    "firebase_url": "https://msgapp-7b2b4.firebaseio.com",
+    "project_id": "msgapp-7b2b4",
+    "storage_bucket": "msgapp-7b2b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987949923749:android:387fd8ee7ef22479",
+        "android_client_info": {
+          "package_name": "com.example.vishal.msg_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987949923749-l1pkupudium1es0k42mpjush5a6riu0m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vishal.msg_app",
+            "certificate_hash": "9dd93f78dc5fe37f35d1c40dd72339686ac02096"
+          }
+        },
+        {
+          "client_id": "987949923749-fv99em8shq3tqk3cdgfdbdlqjnc4sfqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcenYup9GPwujwRiDzC1BpnM-zSEQ-H5o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987949923749-fv99em8shq3tqk3cdgfdbdlqjnc4sfqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
